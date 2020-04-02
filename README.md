@@ -19,6 +19,6 @@ A number of ML projects/assignments completed in the past two years.
 * [HW 3, part 2](https://github.com/arinastnkv/ML-projects/blob/master/mlcourse_HA3-2.ipynb): random forest, bootstrap, hyperparameter tuning;
 * [HW 4](https://github.com/arinastnkv/ML-projects/blob/master/mlcourse_HA4.ipynb): time series analysis;
 
-#### ATP Men's Tennis Predictions Project
+#### ATP Men's Tennis Predictions Project:
 * [Project Notebook](https://github.com/arinastnkv/ML-projects/blob/master/ATP_Project_Notebook.ipynb): predictions of tennis match results based on the available information about players and previous matches stats;
 
