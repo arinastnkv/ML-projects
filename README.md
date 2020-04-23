@@ -23,7 +23,7 @@ A number of ML projects/assignments completed in the past two years.
 * [Project Notebook](https://github.com/arinastnkv/ML-projects/blob/master/ATP_Project_Notebook.ipynb): predictions of tennis match results based on the available information about players and previous matches stats;
 
 #### Statistical Methods for Machine Learning, Spring 2020 (Coming soon!): 
-* [HW 1](): decision theory, gradient-based model fitting;
-* [HW 2](): Bayesian inference in large models with continuous latent variables, Stochastic Variational Inference in the TrueSkill Model;
-* [HW 3](): Variational Autoencoders.
+* [HW 1 (Coming soon!)](): decision theory, gradient-based model fitting;
+* [HW 2 (Coming soon!)](): Bayesian inference in large models with continuous latent variables, Stochastic Variational Inference in the TrueSkill Model;
+* [HW 3](https://github.com/arinastnkv/ML-projects/blob/master/SMML_HW3.pdf): Variational Autoencoders.
 
