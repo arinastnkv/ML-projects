@@ -27,3 +27,6 @@ A number of ML projects/assignments completed in the past two years.
 * [HW 2 (Coming soon!)](): Bayesian inference in large models with continuous latent variables, Stochastic Variational Inference in the TrueSkill Model;
 * [HW 3](https://github.com/arinastnkv/ML-projects/blob/master/SMML_HW3.pdf): Variational Autoencoders.
 
+#### Book Sales Study:
+* [Project Notebook](https://github.com/arinastnkv/ML-projects/blob/master/Books_Notebook.ipynb): building a recommendation system based on customers' purchase history; identifying determinants of sales. 
+
