@@ -1,5 +1,5 @@
 # ML-projects
-A number of ML projects/assignments completed in the past two years.
+A number of ML projects/assignments completed in the past two years. Programming language - Python (unless specifically stated otherwise).
 
 #### Machine Learning, Fall 2017:
 * [HW 1](https://github.com/arinastnkv/ML-projects/blob/master/MachineLearning_HW1.ipynb): exploratory data analysis, numpy, pandas, matplotlib;
