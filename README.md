@@ -25,9 +25,9 @@ A number of ML projects/assignments completed in the past two years.
 * [Project Notebook](https://github.com/arinastnkv/ML-projects/blob/master/ATP_Project_Notebook.ipynb): predictions of tennis match results based on the available information about players and previous matches stats;
 
 #### Statistical Methods for Machine Learning, Spring 2020 (Coming soon!): 
-* [HW 1, coded in Julia and Python (Coming soon!)](): decision theory, gradient-based model fitting;
-* [HW 2, coded in Julia (Coming soon!)](): Bayesian inference in large models with continuous latent variables, Stochastic Variational Inference in the TrueSkill Model;
-* [HW 3, coded in Julia](https://github.com/arinastnkv/ML-projects/blob/master/SMML_HW3.pdf): Variational Autoencoders.
+* [HW 1 (Coming soon!)](): decision theory, gradient-based model fitting. **Coded in Julia and Python.**
+* [HW 2, coded in Julia (Coming soon!)](): Bayesian inference in large models with continuous latent variables, Stochastic Variational Inference in the TrueSkill Model. **Coded in Julia.**
+* [HW 3, coded in Julia](https://github.com/arinastnkv/ML-projects/blob/master/SMML_HW3.pdf): Variational Autoencoders. **Coded in Julia.**
 
 #### Book Sales Study:
 * [Project Notebook](https://github.com/arinastnkv/ML-projects/blob/master/Books_Notebook.ipynb): building a recommendation system based on customers' purchase history; identifying determinants of sales. 
