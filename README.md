@@ -9,6 +9,7 @@ A number of ML projects/assignments completed in the past two years. Programming
 
 #### Kaggle:
 * [Kaggle Competition](https://github.com/arinastnkv/ML-projects/blob/master/Kaggle_DotaCompetition.ipynb): Dota 2 Winner Prediction 
+* [Kaggle Competition](https://github.com/arinastnkv/ML-projects/blob/master/Kaggle_UserIdentification.ipynb): Identifying a user on the Internet tracking their sequence of attended web-pages
 
 #### Natural Language Processing, Fall 2018:
 * [HW 1](https://github.com/arinastnkv/ML-projects/blob/master/NLP_HW1.ipynb): word embeddings, topic modelling, text classification, Latent Dirichlet Allocation;
@@ -16,7 +17,6 @@ A number of ML projects/assignments completed in the past two years. Programming
 
 #### Additional:
 * [Data Analysis (US Flights)](https://github.com/arinastnkv/ML-projects/blob/master/EDA_US_flights.ipynb): exploratory data analysis, pandas, matplotlib, seaborn;
-* [](https://github.com/arinastnkv/ML-projects/blob/master/mlcourse_HA2.ipynb): sparse matrices, logistic regression, validation, regularization and parameter tuning;
 * [](https://github.com/arinastnkv/ML-projects/blob/master/mlcourse_HA3-1.ipynb): decision trees for classification and regression; GridSearchCV method;
 * [](https://github.com/arinastnkv/ML-projects/blob/master/mlcourse_HA3-2.ipynb): random forest, bootstrap, hyperparameter tuning;
 * [](https://github.com/arinastnkv/ML-projects/blob/master/mlcourse_HA4.ipynb): time series analysis;
