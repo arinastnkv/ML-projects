@@ -14,7 +14,7 @@ A number of ML projects/assignments completed in the past two years. Programming
 #### Additional:
 * [Data Analysis (US Flights)](https://github.com/arinastnkv/ML-projects/blob/master/EDA_US_flights.ipynb): exploratory data analysis of US flights (pandas, matplotlib, seaborn);
 * [Classification (Heart diseases)](https://github.com/arinastnkv/ML-projects/blob/master/DT_HeartDiseases.ipynb): predicting presence or absence of cardiovascular disease
-* [Classification (Credit Scoring & Movie Reviews)](https://github.com/arinastnkv/ML-projects/blob/master/CreditScoring_MovieReview.ipynb): predicting whether the customer will repay their credit within 90 days; predict whether the movie review is positive or negative
+* [Classification (Credit Scoring & Movie Reviews)](https://github.com/arinastnkv/ML-projects/blob/master/CreditScoring_MovieReview.ipynb): predicting whether the customer will repay their credit within 90 days; predicting whether the movie review is positive or negative
 * [](https://github.com/arinastnkv/ML-projects/blob/master/mlcourse_HA4.ipynb): time series analysis;
 
 #### Machine Learning, Fall 2017:
