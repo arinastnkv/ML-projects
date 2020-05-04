@@ -18,7 +18,7 @@ A number of ML projects/assignments completed in the past three years. Programmi
 * [Time Series Analysis (Ads)](https://github.com/arinastnkv/ML-projects/blob/master/TS_Ads.ipynb): predicting total ads watched by hour in one of the video games
 
 #### Statistical Methods for Machine Learning, Spring 2020: 
-* [HW 1 (Coming soon!)](): decision theory, gradient-based model fitting. **Coded in Julia and Python.**
+* [HW 1](https://github.com/arinastnkv/ML-projects/blob/master/SMML_HW1.ipynb): decision theory, gradient-based model fitting. **Coded in Julia and Python.**
 * [HW 2](https://github.com/arinastnkv/ML-projects/blob/master/SMML_HW2.pdf): Bayesian inference in large models with continuous latent variables, Stochastic Variational Inference in the TrueSkill Model. **Coded in Julia.**
 * [HW 3](https://github.com/arinastnkv/ML-projects/blob/master/SMML_HW3.pdf): Variational Autoencoders. **Coded in Julia.**
 
