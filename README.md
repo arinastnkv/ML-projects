@@ -1,5 +1,5 @@
 # ML-projects
-A number of ML projects/assignments completed in the past two years. Programming language - Python (unless specifically stated otherwise).
+A number of ML projects/assignments completed in the past three years. Programming language - Python (unless specifically stated otherwise).
 
 #### ATP Men's Tennis Predictions Project:
 * [Project Notebook](https://github.com/arinastnkv/ML-projects/blob/master/ATP_Project_Notebook.ipynb): predictions of tennis match results based on the available information about players and previous matches stats;
