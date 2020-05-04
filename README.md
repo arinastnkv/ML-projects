@@ -17,6 +17,11 @@ A number of ML projects/assignments completed in the past three years. Programmi
 * [Classification (Credit Scoring & Movie Reviews)](https://github.com/arinastnkv/ML-projects/blob/master/CreditScoring_MovieReview.ipynb): predicting whether the customer will repay their credit within 90 days; predicting whether the movie review is positive or negative
 * [Time Series Analysis (Ads)](https://github.com/arinastnkv/ML-projects/blob/master/TS_Ads.ipynb): predicting total ads watched by hour in one of the video games
 
+#### Statistical Methods for Machine Learning, Spring 2020: 
+* [HW 1 (Coming soon!)](): decision theory, gradient-based model fitting. **Coded in Julia and Python.**
+* [HW 2](https://github.com/arinastnkv/ML-projects/blob/master/SMML_HW2.pdf): Bayesian inference in large models with continuous latent variables, Stochastic Variational Inference in the TrueSkill Model. **Coded in Julia.**
+* [HW 3](https://github.com/arinastnkv/ML-projects/blob/master/SMML_HW3.pdf): Variational Autoencoders. **Coded in Julia.**
+
 #### Machine Learning, Fall 2017:
 * [HW 1](https://github.com/arinastnkv/ML-projects/blob/master/MachineLearning_HW1.ipynb): exploratory data analysis, numpy, pandas, matplotlib;
 * [HW 2](https://github.com/arinastnkv/ML-projects/blob/master/MachineLearning_HW2.ipynb): linear, lasso, and ridge regressions, gradient descent;
@@ -26,9 +31,4 @@ A number of ML projects/assignments completed in the past three years. Programmi
 #### Natural Language Processing, Fall 2018:
 * [HW 1](https://github.com/arinastnkv/ML-projects/blob/master/NLP_HW1.ipynb): word embeddings, topic modelling, text classification, Latent Dirichlet Allocation;
 * [HW 2](https://github.com/arinastnkv/ML-projects/blob/master/NLP_HW2.ipynb): paraphrase identification, semantic similarity;
-
-#### Statistical Methods for Machine Learning, Spring 2020 (Coming soon!): 
-* [HW 1 (Coming soon!)](): decision theory, gradient-based model fitting. **Coded in Julia and Python.**
-* [HW 2 (Coming soon!)](): Bayesian inference in large models with continuous latent variables, Stochastic Variational Inference in the TrueSkill Model. **Coded in Julia.**
-* [HW 3](https://github.com/arinastnkv/ML-projects/blob/master/SMML_HW3.pdf): Variational Autoencoders. **Coded in Julia.**
 
