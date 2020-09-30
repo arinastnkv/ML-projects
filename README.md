@@ -12,6 +12,7 @@ A number of ML projects/assignments completed in the past three years. Programmi
 * [Project Notebook](https://github.com/arinastnkv/ML-projects/blob/master/Books_Notebook.ipynb): building a recommendation system based on customers' purchase history; identifying determinants of sales. 
 
 #### Additional:
+* [Building a Reporting Dashboard](https://github.com/arinastnkv/ML-projects/blob/master/MedClaims_Dashboard/MedicalClaims_Dash.ipynb): creating a dashboard based on the medical claims data using Python's Dash/Plotly
 * [Data Analysis (US Flights)](https://github.com/arinastnkv/ML-projects/blob/master/EDA_US_flights.ipynb): exploratory data analysis of US flights (pandas, matplotlib, seaborn);
 * [Classification (Heart diseases)](https://github.com/arinastnkv/ML-projects/blob/master/DT_HeartDiseases.ipynb): predicting presence or absence of cardiovascular disease
 * [Classification (Credit Scoring & Movie Reviews)](https://github.com/arinastnkv/ML-projects/blob/master/CreditScoring_MovieReview.ipynb): predicting whether the customer will repay their credit within 90 days; predicting whether the movie review is positive or negative
