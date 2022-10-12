@@ -8,9 +8,6 @@ A number of ML projects/assignments completed in the past three years. Programmi
 * [Kaggle Competition](https://github.com/arinastnkv/ML-projects/blob/master/Kaggle_DotaCompetition.ipynb): Dota 2 Winner Prediction; 
 * [Kaggle Competition](https://github.com/arinastnkv/ML-projects/blob/master/Kaggle_UserIdentification.ipynb): Identifying a user on the Internet tracking their sequence of attended web-pages;
 
-#### Book Sales Study:
-* [Project Notebook](https://github.com/arinastnkv/ML-projects/blob/master/Books_Notebook.ipynb): building a recommendation system based on customers' purchase history; identifying determinants of sales;
-
 #### Additional:
 * [Building a Reporting Dashboard](https://github.com/arinastnkv/ML-projects/blob/master/MedClaims_Dashboard/MedicalClaims_Dash.ipynb): creating a dashboard based on the medical claims data using Python's Dash/Plotly; the dashboard can be viewed [here](https://medclaimsapp.herokuapp.com).
 * [Data Analysis (US Flights)](https://github.com/arinastnkv/ML-projects/blob/master/EDA_US_flights.ipynb): exploratory data analysis of US flights (pandas, matplotlib, seaborn);
