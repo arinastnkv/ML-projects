@@ -2,7 +2,7 @@
 A number of ML projects/assignments completed in the past three years. Programming language - Python (unless specifically stated otherwise).
 
 #### ATP Men's Tennis Predictions Project 2000-2021:
-* [Project Notebook](https://github.com/arinastnkv/ML-projects/blob/master/ATP_Project_Notebook%20(2022).ipynb): predictions of tennis match results based on the available information about players and previous matches stats;
+* [Project Notebook](https://github.com/arinastnkv/ML-projects/blob/master/ATP_Project_Notebook.ipynb): predictions of tennis match results based on the available information about players and previous matches stats;
 
 #### Kaggle:
 * [Kaggle Competition](https://github.com/arinastnkv/ML-projects/blob/master/Kaggle_DotaCompetition.ipynb): Dota 2 Winner Prediction; 
