@@ -14,6 +14,7 @@ A number of ML projects/assignments completed in the past three years. Programmi
 * [Classification (Heart diseases)](https://github.com/arinastnkv/ML-projects/blob/master/DT_HeartDiseases.ipynb): predicting presence or absence of cardiovascular disease;
 * [Classification (Credit Scoring & Movie Reviews)](https://github.com/arinastnkv/ML-projects/blob/master/CreditScoring_MovieReview.ipynb): predicting whether the customer will repay their credit within 90 days; predicting whether the movie review is positive or negative;
 * [Time Series Analysis (Ads)](https://github.com/arinastnkv/ML-projects/blob/master/TS_Ads.ipynb): predicting total ads watched by hour in one of the video games;
+* [Books Case Study](https://github.com/arinastnkv/ML-projects/blob/master/Books_Notebook.ipynb): creating a book recommender system & predicting future book sales;
 
 #### Statistical Methods for Machine Learning, Spring 2020: 
 * [HW 1](https://github.com/arinastnkv/ML-projects/blob/master/SMML_HW1/SMML_HW1.ipynb): decision theory, gradient-based model fitting. **Coded in Julia and Python.**
